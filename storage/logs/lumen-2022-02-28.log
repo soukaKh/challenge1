@@ -1,0 +1,4 @@
+[2022-02-28 20:14:11] local.ERROR: Cannot declare class CreateUsersTable, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class CreateUsersTable, because the name is already in use at /opt/lampp/htdocs/chalenge/database/migrations/2022_02_09_213912_create_user_table.php:7)
+[stacktrace]
+#0 {main}
+"} 
