@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootstrap 5 Admin Dashbaord Template
 
 # 👉 Subscribe to My Channel [💙❤️Youtube❤️💙](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
@@ -26,3 +27,6 @@
 ![preview](images/preview.PNG)
 
 ### Made with ❤️ - by [FrontEndFunn](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
+=======
+essai
+>>>>>>> a334dfd6316aa7d62789831c5735559f943bec51
